@@ -1,7 +1,8 @@
 # glow 
 
-Reimplementation of [GLOW](https://arxiv.org/abs/1807.03039) - Normalizing flow
-Based on the repo: https://github.com/y0ast/Glow-PyTorch
+Reimplementation of [GLOW](https://arxiv.org/abs/1807.03039) - a Normalizing flow\
+
+This repo is based on the repo: https://github.com/y0ast/Glow-PyTorch
 
 # References:
 ```
